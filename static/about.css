@@ -1,0 +1,52 @@
+body {
+    background-image: url("images\野菜.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+title {
+    font-family: "ゴシック", "arial unicode ms", sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 64px;
+    color: #ED0505;
+}
+
+.global-nav {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.global-nav .nav-item a {
+    display: inline-block;
+    margin: 0 10px;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 8px;
+    color: #666;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+    transition: 0.15s;
+}
+
+.global-nav .nav-item.active a {
+    color: #666;
+    transition: 0.15s;
+}
+.global-nav .nav-item a:hover {
+    background-color: #2631d1;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+}
+
