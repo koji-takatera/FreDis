@@ -32,8 +32,8 @@ Keras-Preprocessing
 Markdown
 MarkupSafe==1.1.1
 
-mkl-random==1.1.1
-mkl-service==2.3.0
+
+
 multidict 
 numpy
 oauthlib==3.1.0
