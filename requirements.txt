@@ -56,7 +56,7 @@ scikit-learn
 scipy 
 six 
 tensorboard
-tensorboard-plugin-wit==1.6.0
+
 tensorflow==2.3.0
 tensorflow-estimator
 termcolor==1.1.0
